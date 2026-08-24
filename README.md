@@ -1,150 +1,240 @@
-\# ⚡ EcomPulse AI
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=⚡+EcomPulse+AI;Intelligent+E-Commerce+Analytics;From+Data+to+Business+Intelligence" alt="EcomPulse AI"/>
 
+<br/>
 
-\### Intelligent E-Commerce Analytics \& Business Intelligence Platform
+<p>
+  <strong>AI-Powered E-Commerce Intelligence & Analytics Platform</strong>
+</p>
 
+<p>
+  Transforming large-scale e-commerce data into meaningful insights,
+  business intelligence and actionable decisions.
+</p>
 
+<br/>
 
-EcomPulse AI is an AI-powered e-commerce analytics platform designed to transform raw e-commerce data into meaningful business intelligence.
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
+<br/><br/>
 
+<img src="https://img.shields.io/github/stars/Aryan-Kain/EcomPulse-AI?style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/github/forks/Aryan-Kain/EcomPulse-AI?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/Aryan-Kain/EcomPulse-AI?style=flat-square"/>
 
-The system analyzes customers, orders, products, sellers, payments, reviews, and delivery performance to identify important trends, business opportunities, operational issues, and potential seller risks.
-
-
-
-The project combines \*\*Data Analysis, Artificial Intelligence, Business Intelligence, and an Interactive React Dashboard\*\* into a single platform.
-
-
-
----
-
-
-
-\## 🚀 Project Overview
-
-
-
-Modern e-commerce platforms generate massive amounts of data every day. Simply storing this data is not enough — businesses need systems that can analyze the data and convert it into actionable insights.
-
-
-
-EcomPulse AI addresses this problem by processing e-commerce datasets and generating intelligence across multiple business areas.
-
-
-
-The platform provides insights into:
-
-
-
-\- 📊 Sales and revenue performance
-
-\- 👥 Customer behavior
-
-\- 🛍️ Product performance
-
-\- 🏪 Seller activity
-
-\- 🚚 Delivery performance
-
-\- ⚠️ Seller risk detection
-
-\- 📦 Order status analysis
-
-\- 🤖 AI-generated business insights
-
-
+</div>
 
 ---
 
+# ⚡ EcomPulse AI
 
+**EcomPulse AI** is an intelligent e-commerce analytics platform that transforms raw transaction data into clear, actionable business intelligence.
 
-\## 🎯 Objectives
+The platform combines **Python-based data processing, analytical intelligence and a modern React dashboard** to provide a centralized view of customers, products, sellers, orders, revenue and delivery performance.
 
-
-
-The main objectives of EcomPulse AI are:
-
-
-
-1\. Analyze large-scale e-commerce datasets.
-
-2\. Understand customer purchasing behavior.
-
-3\. Identify high-performing products.
-
-4\. Analyze seller performance and risk.
-
-5\. Evaluate delivery and fulfillment performance.
-
-6\. Generate useful business intelligence from raw data.
-
-7\. Present the results through an interactive dashboard.
-
-8\. Help businesses make faster and more informed decisions.
-
-
+Instead of manually analyzing millions of records, EcomPulse AI converts complex datasets into meaningful visual insights that can help businesses identify opportunities, understand customer behavior and detect potential operational risks.
 
 ---
 
+# 🎯 What Problem Does It Solve?
 
+Modern e-commerce platforms generate huge amounts of data every day.
 
-\## 🏗️ Project Architecture
+This data can contain information about:
 
+- Customers
+- Orders
+- Products
+- Sellers
+- Payments
+- Reviews
+- Deliveries
+- Locations
 
+However, raw datasets are difficult to understand without proper processing and visualization.
+
+### EcomPulse AI solves this problem by creating an intelligence layer:
+
+<div align="center">
+
+### Raw Data
+⬇️
+### Data Processing
+⬇️
+### Business Analysis
+⬇️
+### AI Intelligence
+⬇️
+### Interactive Dashboard
+⬇️
+### Business Decisions
+
+</div>
+
+---
+
+# 🚀 Key Features
+
+## 📊 Customer Intelligence
+
+Understand customer behavior and engagement patterns.
+
+- Customer segmentation
+- New customer analysis
+- Returning customer analysis
+- Customer activity
+- Customer distribution
+- Behavioral insights
+
+---
+
+## 🛍️ Product Intelligence
+
+Identify the products that contribute most to business performance.
+
+- Top-performing products
+- Revenue contribution
+- Product categories
+- Order performance
+- Product ratings
+- Product-level analytics
+
+---
+
+## 🏪 Seller Risk Monitor
+
+Analyze seller behavior and identify sellers that may require attention.
+
+The system categorizes sellers into:
+
+🔴 **High Risk**
+
+🟠 **Medium Risk**
+
+🟢 **Low Risk**
+
+This allows businesses to focus attention on potentially unusual seller activity.
+
+---
+
+## 🚚 Delivery Intelligence
+
+Monitor logistics and delivery performance.
+
+The platform analyzes:
+
+- Delivery success rate
+- Average delivery time
+- Delayed orders
+- Return rate
+- Delivery performance
+- Operational bottlenecks
+
+---
+
+## 📦 Order Intelligence
+
+Analyze the overall order lifecycle.
+
+The system provides insights into:
+
+- Order status
+- Completed orders
+- Cancelled orders
+- Order activity
+- Monthly order trends
+
+---
+
+## 🤖 AI Business Insights
+
+EcomPulse AI converts analytical results into high-level business observations.
+
+The intelligence layer can identify:
+
+- Revenue growth
+- Customer behavior patterns
+- Seller risks
+- Delivery problems
+- Product opportunities
+- Operational issues
+
+The goal is to move beyond simply displaying numbers and provide information that can support decision-making.
+
+---
+
+# 🖥️ Interactive Executive Dashboard
+
+The project includes a modern dark-themed **Executive Dashboard** built using React.
+
+The dashboard brings multiple intelligence areas together in a single interface.
+
+### Dashboard includes:
+
+| Area | Purpose |
+|---|---|
+| 💰 Revenue | Monitor revenue performance |
+| 📦 Orders | Analyze order activity |
+| 👥 Customers | Understand customer behavior |
+| 🏪 Sellers | Monitor seller activity |
+| 🛍️ Products | Identify top products |
+| 🚚 Delivery | Analyze logistics |
+| 🛡️ Risk | Monitor seller risk |
+| ⚡ AI Insights | Surface business intelligence |
+
+---
+
+# 📈 Dashboard Highlights
+
+The dashboard provides visual analytics such as:
+
+- Revenue growth charts
+- Customer distribution
+- Seller risk classification
+- Delivery metrics
+- Product performance tables
+- KPI cards
+- AI-generated business insights
+
+The interface is designed around an **executive analytics experience**, making large amounts of information easier to understand at a glance.
+
+---
+
+# 🧠 Data Processing Pipeline
+
+The project follows a complete data-to-intelligence workflow:
 
 ```text
-
-EcomPulse-AI/
-
-│
-
-├── dashboard/
-
-│   ├── public/
-
-│   ├── src/
-
-│   ├── package.json
-
-│   ├── package-lock.json
-
-│   └── vite.config.js
-
-│
-
-├── data/
-
-│   ├── raw/
-
-│   └── processed/
-
-│
-
-├── reports/
-
-│   ├── business\_insights.txt
-
-│   ├── customer\_intelligence.csv
-
-│   ├── delivery\_intelligence.csv
-
-│   ├── order\_status\_intelligence.csv
-
-│   ├── product\_intelligence.csv
-
-│   └── seller\_risk\_analysis.csv
-
-│
-
-└── src/
-
-&nbsp;   ├── analysis.py
-
-&nbsp;   ├── build\_master.py
-
-&nbsp;   ├── inspect\_data.py
-
-&nbsp;   └── intelligence.py
-
+             RAW DATASETS
+                  │
+                  ▼
+          DATA INSPECTION
+                  │
+                  ▼
+        DATA CLEANING & PREPARATION
+                  │
+                  ▼
+         DATASET INTEGRATION
+                  │
+                  ▼
+        BUSINESS ANALYTICS
+                  │
+          ┌───────┼────────┐
+          ▼       ▼        ▼
+      Customer  Product   Seller
+      Analysis  Analysis  Risk
+          │       │        │
+          └───────┼────────┘
+                  ▼
+        DELIVERY & ORDER ANALYSIS
+                  │
+                  ▼
+          BUSINESS INSIGHTS
+                  │
+                  ▼
+        REACT EXECUTIVE DASHBOARD
